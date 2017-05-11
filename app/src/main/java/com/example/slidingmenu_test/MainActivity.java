@@ -15,7 +15,6 @@ setContentView(R.layout.activity_main);
 slidingMenu = new SlidingMenu(this);
 slidingMenu.setMode(SlidingMenu.LEFT);
 slidingMenu.setTouchModeAbove(SlidingMenu.TOUCHMODE_FULLSCREEN);//设置滑动的屏幕范围，该设置为全屏区域都可以滑动
-slidingMenu.setTouchModeAbove(SlidingMenu.TOUCHMODE_FULLSCREEN);
 slidingMenu.setBehindOffsetRes(R.dimen.slidingmenu_offset);
 slidingMenu.setMenu(R.layout.slidingmenu);
     // 设置渐入渐出效果的值
