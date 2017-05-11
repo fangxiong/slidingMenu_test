@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\slidingMenu_test\\slidingmenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\AndroidStudioProjects\\slidingMenu_test\\slidingmenu_library\\build\\intermediates\\bundles\\debug\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\slidingmenu_library1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\AndroidStudioProjects\\slidingmenu_library1\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\slidingmenumain.xml"
+    }
+]
